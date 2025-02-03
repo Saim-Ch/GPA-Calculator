@@ -18,7 +18,7 @@
 ## 🛠️ Technologies Used
 
 * Java (Core Java, OOP)
-* Swing (if GUI-based) or CLI (if console-based)
+* Swing (for GUI)
 
 ## Download GPA-Calculator.zip.
 
